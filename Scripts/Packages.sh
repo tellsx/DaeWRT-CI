@@ -79,7 +79,7 @@ UPDATE_PACKAGE "quickfile" "sbwml/luci-app-quickfile" "main"
 UPDATE_PACKAGE "timecontrol" "sirpdboy/luci-app-timecontrol" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "axonhub gecoosac sing-box luci-app-homeproxy luci-app-timewol luci-app-wolplus luci-app-wolultra"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
-
+UPDATE_PACKAGE "run" "wukongdaily/luci-app-run" "master"
 
 UPDATE_PACKAGE "luci-app-daed" "QiuSimons/luci-app-daed" "kix"
 UPDATE_PACKAGE "luci-app-daede" "kenzok8/openwrt-daede" "main"
