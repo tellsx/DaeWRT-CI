@@ -1,7 +1,7 @@
 #科学插件调整
 #CONFIG_PACKAGE_luci-app-homeproxy=y
-#CONFIG_PACKAGE_luci-app-dae=m
-#CONFIG_PACKAGE_luci-app-daede=y
+CONFIG_PACKAGE_luci-app-dae=m
+CONFIG_PACKAGE_luci-app-daede=y
 CONFIG_PACKAGE_luci-app-openclash=y
 
 #增加插件
